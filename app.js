@@ -86,7 +86,6 @@ gsap.registerPlugin(ScrollTrigger);
         pin: ".forth-section",
         scrub:2,
         pinSpacing: true,
-          markers:true,
          toggleActions: "restart none none none"
   }
    });
